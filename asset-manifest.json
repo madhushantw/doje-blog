@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/madhushantw/doje-blog.git/static/css/main.0125917c.css",
+    "main.js": "/madhushantw/doje-blog.git/static/js/main.271d2b24.js",
+    "index.html": "/madhushantw/doje-blog.git/index.html",
+    "main.0125917c.css.map": "/madhushantw/doje-blog.git/static/css/main.0125917c.css.map",
+    "main.271d2b24.js.map": "/madhushantw/doje-blog.git/static/js/main.271d2b24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0125917c.css",
+    "static/js/main.271d2b24.js"
+  ]
+}
